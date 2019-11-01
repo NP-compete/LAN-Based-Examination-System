@@ -46,7 +46,7 @@ java client.Client
 
 ### 
 | **Member Functions** | **Functionality** |
-| --- | --- | --- |
+| --- | --- |
 | `display(int questionNumber)` | Displays question number, question and options in proper format |
 | `parseQuestion(String text)` | Converts the passed text to a Question object; *return* Question object |
 | `toString()` | converts the Question object to string - question followed by options as one string |
@@ -69,7 +69,7 @@ java client.Client
 
 ### 
 | **Member Functions** | **Functionality** |
-| --- | --- | --- |
+| --- | --- |
 | main() | create thread which calls the Server constructor to begin execution |
 | Server(int port) | Consructor; calls loadQuestions; creates a socket on port passed as an argument; sets run to true |
 | loadQuestions() | reads from the file "/questions/questions.txt"; converts each question to a Question object and puts on the inputStream; closes the streams |
@@ -90,7 +90,7 @@ java client.Client
 
 ### 
 | **Member Functions** | **Functionality** |
-| --- | --- | --- |
+| --- | --- |
 |ServerTaskManager(Socket socket) | creates input/output datastreams; accepts client connection |
 | write(String text) | writes data onto dataOutputStream |
 | run() | randomly adds questions onto the dataOutputStream; reads data from dataInputStream (client answers); add up the scores if answer matches the correct answer; writes total score on the dataOutputStream; writes the questions with correct answers on the output stream; writes end on the dataOutputStream to signfy end of file and stop reading from the streams; closes the streams |
@@ -111,7 +111,7 @@ java client.Client
 
 ### 
 | **Member Functions** | **Functionality** |
-| --- | --- | --- |
+| --- | --- |
 | main() | creates a thread calling Client constructor and connects to server (here localhost on given port) |
 | Client(int port, String ipAddress) | creates a socket with specified ip address and port; creates input and output data streams; sets run to true; |
 | run() of class Client | reads questions from DataInputStream of type Question; parses the question read; takes input from user and writes the answer on the dataOutputStream; if all questions are answered; displays the score and the answers to all questions from the dataInputStream |
