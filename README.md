@@ -32,6 +32,9 @@ java server.Server
 java client.Client
 ```
 
+# Class Diagram
+![Class Diagram](https://github.com/NP-compete/LAN-Based-Examination-System/blob/master/Class%20Diagram.jpg)
+
 # Classes
  
 ## Question
@@ -118,8 +121,7 @@ java client.Client
 | run() of object Runnable inside class Client | sets timer to 1 minute, if not answered in 1 minutes, defaults to option a|
 
 
-# Class Diagram
-![Class Diagram](https://github.com/NP-compete/LAN-Based-Examination-System/blob/master/Class%20Diagram.jpg)
+
 
 
 
