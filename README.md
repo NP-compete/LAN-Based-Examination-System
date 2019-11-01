@@ -119,7 +119,7 @@ java client.Client
 
 
 # Class Diagram
-![Reload Page]( "Class Diagram")
+![Reload Page](https://github.com/NP-compete/LAN-Based-Examination-System/blob/master/Class%20Diagram.jpg, "Class Diagram")
 
 
 
