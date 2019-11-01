@@ -1,0 +1,60 @@
+What is Java?
+(a) Coffee
+(b) Programming Language
+(c) None of the above
+(d) All of the above
+b
+What of the following is the default value of a local variable?
+(a) null
+(b) 0
+(c) Depends upon the type of variable
+(d) None of the above
+d
+What is the size of long variable?
+(a) 8 bit
+(b) 16 bit
+(c) 32 bit
+(d) 64 bit
+d
+What is the default value of Boolean variable?
+(a) true
+(b) false
+(c) null
+(d) None of the above
+b
+What is the default value of short variable?
+(a) 0.0
+(b) 0
+(c) null
+(d) None of the above
+b
+Which of the following is not a keyword in java?
+(a) static
+(b) Boolean
+(c) void
+(d) private
+b
+What is an Interface?
+(a) An interface is a collection of abstract methods
+(b) Interface is an abstract class
+(c) Interface is a concrete class
+(d) None of the above
+a
+Which of the following is a marker interface?
+(a) Serializable
+(b) Comparable
+(c) Cloneable
+(d) None of the above
+a
+Which method must be implemented by all threads?
+(a) wait()
+(b) start()
+(c) stop()
+(d) run()
+d
+Which of the following is faster, StringBuilder or StringBuffer?
+(a) StringBuilder
+(b) StringBuffer
+(c) All of the above
+(d) None of the above
+a
