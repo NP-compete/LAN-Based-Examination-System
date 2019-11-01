@@ -129,7 +129,7 @@ java client.Client
 
 
 # Team
-| Name        | Roll No. | Linkedin  |
-| ------------- |:-----------:|:----- |
-| Nandini Soni | 17MCMC61 | [linkedin.com/in/sohamdutta/](https://www.linkedin.com/in/sohamdutta/) |
-| Soham Dutta | 17MCMC21 | [linkedin.com/in/nandini-soni/](https://www.linkedin.com/in/nandini-soni/) |
+| Name        | Roll No. | Linkedin  | Github |
+| ------------- |:-----------:|:----- |:-----|
+| Nandini Soni | 17MCMC61 | [linkedin.com/in/sohamdutta/](https://www.linkedin.com/in/sohamdutta/) | [NP-compete](https://github.com/NP-compete) |
+| Soham Dutta | 17MCMC21 | [linkedin.com/in/nandini-soni/](https://www.linkedin.com/in/nandini-soni/) | [nandini8](https://github.com/nandini8) |
